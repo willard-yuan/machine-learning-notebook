@@ -1,3 +1,5 @@
+## [04-深度学习：CNN知识总结](https://www.zybuluo.com/mdeditor#571100)
+
 ## scikit-learn-notebook
 
 ###有用的链接
